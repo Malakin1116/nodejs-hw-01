@@ -31,3 +31,5 @@ const generateContacts = async (number) => {
 };
 
 generateContacts(5);
+
+// done
